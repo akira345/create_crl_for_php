@@ -1,0 +1,2 @@
+# create_crl_for_php
+PHPで失効証明書を作成するサンプル
